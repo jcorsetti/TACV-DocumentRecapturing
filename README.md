@@ -67,7 +67,7 @@ python resnet.py 18
 python resnet.py 50
 </code></pre>
 
-Note that all these processes will take some time (up to 5 hours each). You can also directly download all the features from [here](https://drive.google.com/file/d1zqDfiMaNp6oS3Dn8fFHM_0T3cSs07h2B/view?usp=sharing).
+Note that all these processes will take some time (up to 5 hours each). You can also directly download all the features from [here](https://drive.google.com/file/d/1zqDfiMaNp6oS3Dn8fFHM_0T3cSs07h2B/view?usp=share_link).
 
 ## Feature evaluation
 
